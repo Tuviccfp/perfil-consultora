@@ -13,7 +13,7 @@ export default function Perfil() {
     return (
         <div className='container'>
             <div className='img-background' >
-                <img src={bgFlower} style={{ width: '300px', height: '300px', position: 'absolute', right: 45, top: -55, }} />
+                <img src={bgFlower} style={{ width: '300px', height: '300px', position: 'absolute', right: 55, top: -55, }} />
                 <div className='img-perfil'>
                     <img style={{ width: configImg.width, height: configImg.height, borderRadius: configImg.radius, position: 'relative' }} src={img_perfil} alt='foto de perfil' />
                 </div>

@@ -12,8 +12,10 @@ const Container = styled.main`
 `
 function App() {
   const franquiaData = {
-    item1: 'Natura',
+    item1: 'Natura/Avon',
     item1_1: 'Natura Revista Digital',
+    item1_2: 'Avon Cosméticos Revista ',
+    item1_3: 'Avon Casa e Estilo Revista ',
     item2: 'Eudora',
     item3: 'oui',
     item4: 'Quem disse Berenice',
@@ -22,7 +24,9 @@ function App() {
   }
   const link_urlData = {
     link1: 'https://www.natura.com.br/consultoria/marcia_cordeiro',
-    link1_1: 'https://br.natura.digital-catalogue.com/br/2023/15/revista/15-brasil/view/index.html?id_consultora=151840024&utm_term=web&info=eyJ1c2VyIjp7InBob25lIjoiNTUgMjEgOTY0NDIwODY2IiwiZW1haWwiOiJtbWZyYWd1YUBnbWFpbC5jb20iLCJuYW1lIjoiTUFSQ0lBIE1BUklBIENPUkRFSVJPIEZSQUdVQVMiLCJjeWNsZSI6IjIwMjMxNSIsInNlc3Npb25JZCI6IjY4OTUxOTllLTM3ZTMtNDY4NS04MGVjLTFlNmRjOTM3MmRkMiIsInNob3BJZCI6Im1hcmNpYV9jb3JkZWlybyJ9LCJtYWdhemluZSI6eyJ5ZWFyIjoiMjAyMyIsImN5Y2xlIjoiMjAyMzE1IiwiaWQiOiI2OTcifX0=',
+    link1_1: 'https://natura.com.vc/16_brasil-ygf6h',
+    link1_2: 'https://avon.com.vc/br2023-toyfy',
+    link1_3: 'https://avon.com.vc/ciclo_16_-_casa_-yy2qy',
     link2: 'https://minhaloja.eudora.com.br/loja-marciamariacordeirofraguas-8685358',
     link3: 'https://minhaloja.ouiparis.com/loja-marciamariacordeirofraguas-6149370',
     link4: 'https://minhaloja.quemdisseberenice.com.br/loja-marciamariacordeirofraguas-6149370',

@@ -24,13 +24,13 @@ function App() {
   }
   const link_urlData = {
     link1: 'https://www.natura.com.br/consultoria/marcia_cordeiro',
-    link1_1: 'https://natura.com.vc/16_brasil-ygf6h',
-    link1_2: 'https://avon.com.vc/br2023-toyfy',
-    link1_3: 'https://avon.com.vc/ciclo_16_-_casa_-yy2qy',
+    link1_1: 'https://natura.com.vc/19_gv_jequitiba-q5lhx',
+    link1_2: 'https://avon.com.vc/br2023-6hp7g',
+    link1_3: 'https://avon.com.vc/19_casa_-4bq7i',
     link2: 'https://minhaloja.eudora.com.br/loja-marciamariacordeirofraguas-8685358',
-    link3: 'https://minhaloja.ouiparis.com/loja-marciamariacordeirofraguas-6149370',
-    link4: 'https://minhaloja.quemdisseberenice.com.br/loja-marciamariacordeirofraguas-6149370?utm_source=Revendedor_O_Boticário&utm_medium=Banner_App&utm_campaign=C202314',
-    link5: 'https://minhaloja.boticario.com.br/loja-marciamariacordeirofraguas-6149370?utm_source=Revendedor_O_Boticário&utm_medium=Banner_App&utm_campaign=C202314-Catálogo_Digital_COSE',
+    link3: 'https://minhaloja.ouiparis.com/loja-marciamariacordeirofraguas-6149370?utm_source=Revendedor_O_Boticário&utm_medium=Banner_App&utm_campaign=C202317',
+    link4: 'https://minhaloja.quemdisseberenice.com.br/loja-marciamariacordeirofraguas-6149370?utm_source=Revendedor_O_Boticário&utm_medium=Banner_App&utm_campaign=C202317',
+    link5: 'https://minhaloja.boticario.com.br/loja-marciamariacordeirofraguas-6149370?utm_source=Revendedor_O_Boticário&utm_medium=Banner_App&utm_campaign=C202317-Catálogo_Digital_COSE',
   }
 
   const nameSelectData = {
